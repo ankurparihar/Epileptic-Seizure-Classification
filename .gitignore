@@ -1,3 +1,4 @@
 data/
 exports/
 __pycache__/
+.ipynb_checkpoints/
